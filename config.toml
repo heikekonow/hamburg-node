@@ -1,4 +1,4 @@
-baseURL = "https://heike.konow.gitlab.io/km-scale-hackathon/"
+baseURL = "https://heikekonow.gitlab.io/km-scale-hackathon"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
