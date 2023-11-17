@@ -3,7 +3,6 @@ title: "Registration"
 weight: 4
 header_menu: true
 ---
-In this section we give credit to authors of resources used on this demo page.
+If you would like to attend the hackathon, please register here:
 
-- {{<extlink text="Chef-hat icons created by Cuputo - Flaticon" href="https://www.flaticon.com/free-icons/chef-hat" icon="fa fa-external-link">}}
-- {{<extlink text="sprinkle-of-rock-salt-on-sliced-vegetables-3209239 - Pexels" href="https://www.pexels.com/video/sprinkle-of-rock-salt-on-sliced-vegetables-3209239/" icon="fa fa-external-link">}}
+[Registration page](https://events.mpimet.mpg.de/e/km-scale-hackathon) (until Jan 1st, 2024)
