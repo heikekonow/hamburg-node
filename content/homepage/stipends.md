@@ -4,7 +4,7 @@ weight: 98
 header_menu: true
 header_menu_title: "Stipends"
 navigation_menu_title: "Stipends"
-detailed_page_path: stipends_detail/
+detailed_page_path: homepage/stipends_detail/
 detailed_page_homepage_content: true
 ---
 
