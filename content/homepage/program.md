@@ -24,5 +24,5 @@ hacking
 hacking
 
 ##### Friday
-**9 am** Closing discussion
+**9 am** Closing discussion,
 **2 pm** End of hackathon

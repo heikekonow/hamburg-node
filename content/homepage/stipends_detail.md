@@ -26,7 +26,7 @@ We welcome young scientists with a strong interest in climate science or Earth s
 - Master or PhD students in either physics, geophysical science, computer science, or marine biology (ideally fisheries), or applicants from African countries, whose research relates to the marine ecosystems and fisheries sectors.
 - The application shall be supported by a supervisor.
 - Applicants must be able to communicate comfortably in English.
-- Experince and familiarity with large data analysis, using Python or similar, is preferred.
+- Experience and familiarity with large data analysis, using Python or similar, is preferred.
 
 ## What is included?
 
