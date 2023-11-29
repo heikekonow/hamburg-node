@@ -1,5 +1,6 @@
 ---
 title: "nextGEMS offers up to 15 travel stipends for hackathon participation"
+header_menu: false
 ---
 
 *Where and when:* Max-Planck-Institute for Meteorology, Hamburg, 4 – 8 March 2024
