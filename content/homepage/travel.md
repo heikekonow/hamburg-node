@@ -22,7 +22,7 @@ you to the central station (in German: Hauptbahnhof), from there you find connec
 #### Arriving by Train
 If you choose to travel to Hamburg by train you will arrive centrally at Hamburg Hauptbahnhof. 
 To reach the MPI-Meteorology from there, head to the **U2** line (red line) in the direction of
-**Rauhes Haus**. After 4 stops exit at **Schlump**. 
+**Niendorf Nord** or **Niendorf Markt**. After 4 stops exit at **Schlump**. 
 
 When making your way out of the station keep 
 an eye out for a large brutalist tower, the **Geomatikum**. From the station head then left
