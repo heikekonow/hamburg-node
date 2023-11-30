@@ -5,7 +5,22 @@ header_menu_title: "Travel"
 header_menu: true
 ---
 
-Here is some information on how to get to Hamburg and navigate the city. Additional information on how to reach hotels will soon be added.
+Here is some information on how to get to Hamburg and navigate the city. Additionally, you can find a list of hotels and options for booking accommodation. 
+
+#### Accommodation
+
+To help your search for accommodation in Hamburg, you can find a list of **[hotel options](https://owncloud.gwdg.de/index.php/s/c4HlclYFUgFGf9Q)**. 
+For easier orientation, the list of hotels can also be viewed on **[Google Maps](https://maps.app.goo.gl/NJGnAixVdawyriht8).**
+
+Alternatively, you can book hotel rooms on the following websites:
+
+- [Check24](https://hotel.check24.de/)  
+- [Trivago](https://www.trivago.de/en-US?rl=en-US&first_visit=1)  
+- [HRS](https://www.hrs.de/)
+
+
+
+
 
 #### Arriving by Plane
 To get to the city center after your arrival at Hamburg Airport head to the SBahn station.
