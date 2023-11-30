@@ -5,7 +5,7 @@ header_menu_title: "Travel"
 header_menu: true
 ---
 
-Here is some information on how to get to Hamburg and navigate the city. Additional information on how to reach hotels will soon be added.
+Here is some information on how to get to Hamburg and navigate the city. Additionally, you can find a list of hotels and options for booking accommodation. 
 
 #### Accommodation
 
