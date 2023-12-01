@@ -1,8 +1,8 @@
 :root {
   /* === Cover / Landing area === */
-  --cover-text-color: #006EF1;
+  --cover-text-color: #1D63AD;
   /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-  --highlight: #87C1FF;
+  --highlight: #7AB0E8;
   --highlight-contrast: var(--cover-text-color);
   /*iverse colors used for :hover */
   --highlight-inverse: var(--cover-text-color);
@@ -11,16 +11,16 @@
   --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
   --cover-title-text-shadow: white 0px 0px 0px;
   /* === sticky top/left navigation menus === */
-  --sticky-menu-text-color: #68B1FF;
+  --sticky-menu-text-color: #7AB0E8;
   /* === Alternating content (post) sections  === */
   /* Light section - text color */
   --section-light-text-color: #3a4145;
   /* Light section - background color */
-  --section-light-bg-color: #f2efe8;
+  --section-light-bg-color: #F3F2EF;
   /* Dark section - text color */
   --section-dark-text-color: var(--section-light-bg-color);
   /* Dark section - background color */
-  --section-dark-bg-color: #2E92FF;
+  --section-dark-bg-color: #1D63AD;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
@@ -29,7 +29,7 @@
   --single-page-text-color: var(--section-light-text-color);
   --single-page-bg-color: var(--section-light-bg-color);
   /* === Footer === */
-  --footer-color-background: #22343a;
+  --footer-color-background: #1D63AD;
   --footer-color: #bbc7cc;
   /* === Lists === */
   /* define list element for unnumbered lists, leave empty for default list element */
