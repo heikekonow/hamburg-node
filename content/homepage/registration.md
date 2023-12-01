@@ -1,6 +1,6 @@
 ---
 title: "Registration"
-weight: 4
+weight: 3
 header_menu: true
 ---
 If you would like to attend the hackathon, please register here:

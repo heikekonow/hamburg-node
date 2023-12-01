@@ -1,6 +1,6 @@
 ---
 title: "Travel & Accomodation"
-weight: 3
+weight: 5
 header_menu_title: "Travel"
 header_menu: true
 ---
