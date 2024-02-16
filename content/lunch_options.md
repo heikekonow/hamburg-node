@@ -5,6 +5,8 @@ header_menu: false
 
 Lunches will be self organized by everyone. If you want to go for lunch close to the hackathon location, here are some suggestions for restaurants. Of course, there are many more options. You can also ask your local hackathon colleages for recommendations.
 
+{{< map locations 53.567776 9.9752124 16 >}}
+
 ### Mensa Geomatikum
 - Student friendly prices
 - Menu: https://www.stwhh.de/speiseplan/?l=151&t=this_week
