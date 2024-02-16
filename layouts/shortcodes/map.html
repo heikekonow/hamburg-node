@@ -2,7 +2,12 @@
 
 <script type="text/javascript">
     let mapdata = {{ index $.Page.Site.Data (.Get 0) }};
-    var map = L.map('map').setView([{{ .Get 1 }}, {{ .Get 2 }}], {{ .Get 3 }});
+    var map = L.map('map', {
+        fullscreenControl: true,
+        fullscreenControlOptions: {
+            position: 'topleft'
+        }
+    }).setView([{{ .Get 1 }}, {{ .Get 2 }}], {{ .Get 3 }});
 
 	var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 18,
