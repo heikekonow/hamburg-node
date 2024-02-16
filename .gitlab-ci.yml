@@ -14,18 +14,29 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:0.120.3
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-test:  # builds and tests your site
+.build: &build
   script:
-    - hugo
+    - echo $DEPLOY_PREFIX
+    - hugo -b $DEPLOY_PREFIX/
+  artifacts:
+    paths:
+      - public
+
+test:  # builds and tests your site
+  <<: *build
+  variables:
+    DEPLOY_PREFIX: https://$CI_PROJECT_NAMESPACE.$CI_PAGES_DOMAIN/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public
+    HUGO_UGLYURLS: "true"
+  environment:
+    name: review/$CI_COMMIT_REF_NAME
+    url: https://$CI_PROJECT_NAMESPACE.$CI_PAGES_DOMAIN/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html
   rules:
     - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
 
 pages:  # a predefined job that builds your pages and saves them to the specified path.
-  script:
-    - hugo
-  artifacts:
-    paths:
-      - public
+  <<: *build
+  variables:
+    DEPLOY_PREFIX: https://mpim-po.pages.gwdg.de/km-scale-hackathon
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   environment: production
