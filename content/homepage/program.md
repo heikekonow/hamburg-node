@@ -13,8 +13,8 @@ The hackathon will run from Monday afternoon to Friday noon. A detailed schedule
 | time | event | location |
 | -------- | -------- | -------- |
 | 2pm   | Registration     | 002     |
-| 3pm     | Welcome, Events of the week, organizational information | tbc |
-| 3.30pm     | Project introductions (updates from work packages/themes), updates to simulations | tbc |
+| 3pm     | Welcome, organizational information | tbc |
+| 3.30pm     | Project introductions & updates, simulation updates | tbc |
 | 4.30pm     | coffe break | Library |
 | 5pm     |  Plans for the breakout groups  | tbc |
 | 5.30pm     | Keynote: EVE, Daniela Jacob | tbc |
@@ -55,7 +55,7 @@ The hackathon will run from Monday afternoon to Friday noon. A detailed schedule
 | *1.30pm*     | *Side event: Visit of the windtunnel of UHH* | |
 | 2pm     | hacking  |  |
 | 4pm     | Coffee break | Library |
-| 5.30pm     | hacking |      |
+| 4.30pm     | hacking |      |
 
 ##### Friday
 | time | event | location |
