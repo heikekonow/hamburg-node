@@ -21,6 +21,7 @@
         {{ end }}
 
         <div id="site-head-content" class="inner">
+            {{ $page := . }}
             {{ with .Params.header_logo }}<img id="blog-logo" src="{{ . }}" />{{ end }}
 
             {{ if .Site.Params.title_guard }}<div class="title-and-description-guard">{{ end }}
@@ -35,7 +36,7 @@
               {{ if isset .Params "external" }}
                  <a class='btn site-menu' href='{{ .Params.external }}'>{{ $button_title }}&nbsp;<icon class="fa fa-external-link"></icon></a>
               {{ else if isset .Params "detailed_page_path" }}
-                 <a class='btn site-menu' href='{{ .Params.detailed_page_path }}'>{{ $button_title }}</a>
+                 <a class='btn site-menu' href='{{ .Params.detailed_page_path | relref $page }}'>{{ $button_title }}</a>
               {{ else }}
                 {{ $fnav_title := .Title }}{{ with .Params.navigation_menu_title }}{{ $fnav_title = . }}{{ end }}
                  <a class='btn site-menu' data-title-anchor='{{ anchorize $fnav_title }}' href='#{{ anchorize $fnav_title }}'>{{ $button_title }}</a>
