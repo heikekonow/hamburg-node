@@ -15,7 +15,7 @@ The Hackathon is hosted by the Max-Planck-Institute for Meteorology in Hamburg, 
 
 Lunches will be self organized by everyone. If you want to go for lunch close to the hackathon location, here are some suggestions for restaurants. Of course, there are many more options. You can also ask your local hackathon colleages for recommendations.
 
-Some recommendations on lunch options can be found [-> here](lunch_options)
+Some recommendations on lunch options can be found [-> here]({{% ref lunch_options %}})
 
 <!-- As lunch will not be provided as part of the hackathon, you will have to make arrangements yourself.
 However, there are numerous options in close proximity to the institute.

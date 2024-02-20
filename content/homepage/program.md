@@ -6,7 +6,7 @@ header_menu: true
 ---
 The hackathon will run from Monday afternoon to Friday noon. A detailed schedule will be posted here.
 
-Some recommendations for lunch options can be found [-> here](lunch_options)
+Some recommendations for lunch options can be found [-> here]({{% ref lunch_options %}})
 
 ----
 *Rough schedule:*
