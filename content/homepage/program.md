@@ -6,6 +6,8 @@ header_menu: true
 ---
 The hackathon will run from Monday afternoon to Friday noon. A detailed schedule will be posted here.
 
+Some recommendations for lunch options can be found [-> here](lunch_options)
+
 ----
 *Rough schedule:*
 
@@ -64,4 +66,3 @@ The hackathon will run from Monday afternoon to Friday noon. A detailed schedule
 | 10.30am     | Coffee break | Library |
 | 11am     | closing discussion (cont.) | 022/023 |
 | 1pm     | end |  |
-
