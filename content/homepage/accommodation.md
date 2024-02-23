@@ -1,6 +1,6 @@
 ---
 title: "Accommodation"
-weight: 3
+weight: 6
 header_menu_title: "Accommodation"
 header_menu: true
 ---
