@@ -17,6 +17,15 @@ Pharmacy building (Pharm): [Bundesstr. 45, 20146 Hamburg](https://maps.app.goo.g
 
 Lunches will be self organized by everyone. If you want to go for lunch close to the hackathon location, [-> here]({{% ref lunch_options %}}) are some suggestions for restaurants. Of course, there are many more options. You can also ask your local hackathon colleages for recommendations.
 
+
+----
+##### Rooms
+
+Meeting rooms are distributed throughout the entire building. Here is a rough overview on which topic will be discussed in which rooms. If you get lost, ask someone local or come and find us in the library on the ground floor.
+
+
+![Room overview](images/program_room_oveview.jpg)
+
 <!-- Some recommendations on lunch options can be found  -->
 
 <!-- As lunch will not be provided as part of the hackathon, you will have to make arrangements yourself.
