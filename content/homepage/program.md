@@ -57,8 +57,10 @@ NB: If the location does not include the building, assume Bu53.
 | 12.30pm     | lunch break (individually) | [lunch options]({{% ref lunch_options %}})  |
 | 2pm     | hacking  |  |
 | 4pm     | Coffee break | Library |
-| 4.30pm     | Keynote: *Possible shift in mechanistic controls of tropical Pacific surface warming pattern*, Sarah Kang | Hoersaal, Pharm |
+| 4.30pm     | Keynote* Sarah Kang | Hoersaal, Pharm |
 | 5.30pm     | hacking |      |
+
+\* title: *Possible shift in mechanistic controls of tropical Pacific surface warming pattern*
 
 ##### Thursday
 | time | event | location |
