@@ -44,7 +44,7 @@ Some recommendations for lunch options can be found [-> here]({{% ref lunch_opti
 | 12.30pm     | lunch break (individually) |  |
 | 2pm     | hacking  |  |
 | 4pm     | Coffee break | Library |
-| 4.30pm     | Keynote: title tbd, Sarah Kang | tbc |
+| 4.30pm     | Keynote: *Possible shift in mechanistic controls of tropical Pacific surface warming pattern*, Sarah Kang | tbc |
 | 5.30pm     | hacking |      |
 
 ##### Thursday
