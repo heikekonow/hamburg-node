@@ -1,6 +1,6 @@
 ---
 title: "Program"
-weight: 3
+weight: 4
 header_menu_title: "Program"
 header_menu: true
 ---
@@ -41,7 +41,7 @@ NB: If the location does not include the building, assume Bu53.
 | 9am     | Hacking     |      |
 | 10:30am     | *Coffee break* | Library |
 | 11am     | Hacking |  |
-| 12:30pm     | *Lunch break (individually)* |  |
+| 12:30pm     | *Lunch break (individually)* | [lunch options]({{% ref lunch_options %}}) |
 | 2pm     | Hacking  |  |
 | 4pm     | *Coffee break* | Library |
 | 4:30pm     | ***World Café*** | Library |
@@ -54,7 +54,7 @@ NB: If the location does not include the building, assume Bu53.
 | 9am    | hacking     |      |
 | 10.30am     | Coffee break | Library |
 | 11am     | hacking |  |
-| 12.30pm     | lunch break (individually) |  |
+| 12.30pm     | lunch break (individually) | [lunch options]({{% ref lunch_options %}})  |
 | 2pm     | hacking  |  |
 | 4pm     | Coffee break | Library |
 | 4.30pm     | Keynote: *Possible shift in mechanistic controls of tropical Pacific surface warming pattern*, Sarah Kang | Hoersaal, Pharm |
@@ -66,7 +66,7 @@ NB: If the location does not include the building, assume Bu53.
 | 9am     | hacking     |      |
 | 10.30am  | Coffee break | Library |
 | 11.00am  | hacking |  |
-| 12.30pm     | lunch break (individually) |  |
+| 12.30pm     | lunch break (individually) | [lunch options]({{% ref lunch_options %}})  |
 | *1.30pm*     | *Side event: Visit of the windtunnel of UHH (up to 90 min)* | |
 | 2pm     | hacking  |  |
 | 4pm     | Coffee break | Library |
