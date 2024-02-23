@@ -1,6 +1,6 @@
 ---
 title: "Venue"
-weight: 2
+weight: 5
 header_menu: true
 ---
 
@@ -9,8 +9,6 @@ header_menu: true
 The Hackathon is hosted by the Max-Planck-Institute for Meteorology in Hamburg, Germany.
 
 [**Bundesstraße 53, 20146 Hamburg**](https://maps.app.goo.gl/2qrCJZtc5N3sxVGZ7)
-
-![Map](images/map_hackathon.jpg)
 
 ----
 ##### Lunch Options

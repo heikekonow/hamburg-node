@@ -1,7 +1,7 @@
 ---
 title: "Travel stipends"
 weight: 4
-header_menu: true
+header_menu: false
 header_menu_title: "Stipends"
 navigation_menu_title: "Stipends"
 detailed_page_path: stipends_detail/
