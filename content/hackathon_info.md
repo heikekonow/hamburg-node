@@ -18,4 +18,4 @@ header_menu: false
 
 **Contact**
 - [nextgems_office@mpimet.mpg.de](mailto:nextgems_office@mpimet.mpg.de)
-- come and find us in the **library** during the hackathon
+- come and find us in the **library** (ground floor) during the hackathon
