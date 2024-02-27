@@ -10,7 +10,7 @@ header_menu: false
 
 **Logistics**
 - [Program](https://mpim-po.pages.gwdg.de/km-scale-hackathon/#program)
-- [Room overview]()
+- [Room overview](https://mpim-po.pages.gwdg.de/km-scale-hackathon/#venue)
 - [Lunch suggestions](https://mpim-po.pages.gwdg.de/km-scale-hackathon/lunch_options/)
 - [Hackathon website](https://mpim-po.pages.gwdg.de/km-scale-hackathon)
 - [Mattermost channel](https://mattermost.mpimet.mpg.de/nextgems/channels/hamburg-km-scale-hackathon-march-2024)
