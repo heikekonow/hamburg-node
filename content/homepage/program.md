@@ -22,7 +22,7 @@ NB: If the location does not include the building, assume Bu53.
 | 3pm     | **Opening session**  | Hoersaal, Pharm |
 |   |  - Welcome, Bjorn Stevens |   |
 |   |  - Logistics, Elina Plesca |   |
-|   | - Storm & Society Survey, Eulalia Baulenas  |   |
+|   | - Storm & Society, Eulalia Baulenas & Pajam Sobhani |   |
 | 3:40pm     | **Simulation updates**  | Hoersaal, Pharm |
 |   | - ICON, Daniel Klocke  |   |
 |   | - IFS, Thomas Rackow  |   |
