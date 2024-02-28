@@ -1,6 +1,6 @@
 ---
 title: "Hackathon info"
-weight: 5
+weight: 6
 header_menu: true
 header_menu_title: "Info"
 navigation_menu_title: "Info"
