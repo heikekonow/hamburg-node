@@ -1,8 +1,10 @@
 ---
 title: "Room Plan"
-header_menu: false
+weight: 3
+header_menu: true
 ---
-----
+
+
 ##### Rooms
 
 The Hackathon is hosted by the Max Planck Institute for Meteorology in Hamburg, Germany (Bundesstr. 53, 20146).
