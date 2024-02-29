@@ -54,7 +54,7 @@
       "properties": {
         "kind": "food",
         "name": "Rucola & Parma",
-        "description": "Italian",
+        "description": "Italian; **cash only!**",
         "url": "https://maps.app.goo.gl/kLpzVz2TFgVhWTpB8",
         "walk": "4 min"
       },
@@ -71,7 +71,7 @@
       "properties": {
         "kind": "food",
         "name": "Schacht Deli",
-        "description": "Cafe with lunch menu",
+        "description": "Cafe with lunch menu; **closed on Thursdays**",
         "url": "https://maps.app.goo.gl/Fa1QCGAhsRiTueDg7",
         "walk": "4 min"
       },
@@ -88,7 +88,7 @@
       "properties": {
         "kind": "food",
         "name": "Quan 19",
-        "description": "Vietnamese",
+        "description": "Vietnamese; **cash only!**",
         "url": "https://maps.app.goo.gl/7NBtNKg7uLzhkJbMA",
         "walk": "6 min"
       },
