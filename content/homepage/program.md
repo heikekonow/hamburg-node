@@ -26,7 +26,7 @@ NB: If the location does not include the building, assume Bu53.
 | 3:40pm     | **Simulation updates**  | Hoersaal, Pharm |
 |   | - ICON, Daniel Klocke  |   |
 |   | - IFS, Thomas Rackow  |   |
-|   | - EERIE models, tbd   |   |
+|   | - EERIE models, Dian Putrasahan & Rohit Ghosh   |   |
 | 4:30pm     | *Coffee break* | Library |
 | 5pm     |  **Plans for the breakout groups** | Hoersaal, Pharm |
 |   | - Ocean  |   |
