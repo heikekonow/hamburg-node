@@ -4,7 +4,7 @@ header_menu: false
 ---
 
 
-**Data**
+**Data, Computing and Topics**
 - [Hackathon starter pack](https://pad.gwdg.de/s/1njdKTs4z)
 
 
