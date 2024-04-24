@@ -2,7 +2,7 @@
 title: "Travel"
 weight: 2
 header_menu_title: "Travel"
-header_menu: true
+header_menu: false
 ---
 
 
@@ -30,7 +30,7 @@ If you choose to travel to Hamburg by train you will arrive centrally at Hamburg
 <!-- To reach the MPI-Meteorology from Hauptbahnhof, head to the **U2** line (red line) in the direction of
 **Niendorf Nord** or **Niendorf Markt**. After 4 stops exit at **Schlump**. -->
 
-If you travel by U-bahn, the closest station is Schlump (lines U2 and U3). The nearest bus stations are Zoologisches Museum (line X35), Bundesstrasse (lines 4, 15), or Grindelhof (lines 4, 5). 
+If you travel by U-bahn, the closest station is Schlump (lines U2 and U3). The nearest bus stations are Zoologisches Museum (line X35), Bundesstrasse (lines 4, 15), or Grindelhof (lines 4, 5).
 
 
 ![Map](images/map_hackathon.jpg)

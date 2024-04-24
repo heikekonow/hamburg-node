@@ -1,4 +1,4 @@
-baseURL = "https://mpim-po.pages.gwdg.de/km-scale-hackathon"
+baseURL = "https://mpim-po.pages.gwdg.de/hazard-hackathon"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "4th km scale hackathon"
+title = "Hazard hackathon"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -35,10 +35,10 @@ title = "4th km scale hackathon"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "4th km-scale hackathon"
+    title = "Hazard hackathon"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "4th km-scale hackathon from 4th to 8th March 2024"
+    description = "5th nextGEMS hackathon from 14th to 18th October 2024"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.

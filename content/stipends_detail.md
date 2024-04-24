@@ -1,5 +1,5 @@
 ---
-title: "nextGEMS offers up to 15 travel stipends for hackathon participation"
+title: "nextGEMS offers travel support for up to 15 hackathon participants"
 header_menu: false
 ---
 

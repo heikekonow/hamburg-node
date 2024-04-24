@@ -9,8 +9,8 @@ header_use_video: false
 # header_logo: "images/code_icon.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "4th km scale hackathon"
-header_subheadline: "4th to 8th March 2024 in Hamburg Germany"
+header_headline: "Hazard hackathon"
+header_subheadline: "14th to 18th October 2024 in Wageningen"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
