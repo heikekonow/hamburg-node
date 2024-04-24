@@ -1,4 +1,4 @@
-baseURL = "https://heike.konow.pages.gwdg.de/hazard-hackathon"
+baseURL = "https://hazard-hackathon-heike-konow-c47f0f1d6608fb925cdcc799c0cab9933e.pages.gwdg.de"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
