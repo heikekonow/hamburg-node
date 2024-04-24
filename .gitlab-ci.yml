@@ -36,7 +36,7 @@ test:  # builds and tests your site
 pages:  # a predefined job that builds your pages and saves them to the specified path.
   <<: *build
   variables:
-    DEPLOY_PREFIX: https://heike.konow.pages.gwdg.de/hazard-hackathon
+    DEPLOY_PREFIX: https://mpim-po.pages.gwdg.de/km-scale-hackathon
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   environment: production
