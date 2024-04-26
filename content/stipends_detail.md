@@ -3,12 +3,12 @@ title: "nextGEMS offers travel support for up to 15 hackathon participants"
 header_menu: false
 ---
 
-*Where and when:* Max-Planck-Institute for Meteorology, Hamburg, 4 – 8 March 2024
+*Where and when:* Wageningen University, 14 – 18 March 2024
 
 nextGEMS offers up to 15 stipends for participation in the 4th km-scale hackathon to support young scientists (at Master and PhD student level) from outside the project.
 
-Application deadline: 31 December 2023.
-[-> quicklink to registration & application](https://events.mpimet.mpg.de/e/km-scale-hackathon)
+Application deadline: 15 June 2024.
+[-> quicklink to registration & application](https://events.mpimet.mpg.de/e/hazard-hackathon)
 
 ## What is a nextGEMS hackathon?
 
@@ -24,31 +24,31 @@ We welcome young scientists with a strong interest in climate science or Earth s
 
 *Eligibility criteria:*
 
-- Master or PhD students in either physics, geophysical science, computer science, or marine biology (ideally fisheries), or applicants from African countries, whose research relates to the marine ecosystems and fisheries sectors.
+- Master or PhD students in either physics, geophysical science, computer science, or marine biology
 - The application shall be supported by a supervisor.
 - Applicants must be able to communicate comfortably in English.
 - Experience and familiarity with large data analysis, using Python or similar, is preferred.
 
 ## What is included?
 
-The hackathon participation is free and includes coffee breaks and a dinner. Additional travel and accommodation costs (incl. breakfast) up to €1000 are available per stipend.
+The hackathon participation is free and includes coffee breaks and a dinner. Additional travel and accommodation costs (incl. breakfast) up to €1000 are available per person.
 
 
 ## How to apply?
 
-Before applying for a hackathon stipend, please prepare the following documents:
+Before applying for hackathon travel support, please prepare the following documents:
 
 - Letter of motivation
 - CV (max 2 pages)
-- Proof of current enrollment and latest BSc / MSc certificates
+- Proof of current enrolment and latest BSc / MSc certificates
 - Letter of support from a supervisor or equivalent, stating the relevance of the applicant’s participation
 
-Information on the hackathon, as well as registration details, can be found on the [event website](https://events.mpimet.mpg.de/e/km-scale-hackathon).
+Information on the hackathon, as well as registration details, can be found on the [event website](https://events.mpimet.mpg.de/e/hazard-hackathon).
 
 During the registration, please indicate that you apply for a hackathon stipend. Following the respective check-box, please upload the documents listed above in *one single (concatenated) PDF file*.
 
-Application deadline is 31 December 2023.
-We will let you know as soon as possile whether we can arrange for your hackathon participation in Hamburg.
+Application deadline is 15 June 2024.
+We will let you know as soon as possible whether we can arrange for your hackathon participation in Hamburg.
 
 ## Questions?
 

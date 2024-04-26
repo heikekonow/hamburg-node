@@ -13,9 +13,6 @@ Geomatikum (Geom): [Bundesstr. 55, 20146 Hamburg](https://maps.app.goo.gl/ywHbHq
 Pharmacy building (Pharm): [Bundesstr. 45, 20146 Hamburg](https://maps.app.goo.gl/oJ28f1G32Fzf7Ej99)
 
 ----
-##### Lunch Options
+<!-- ##### Lunch Options
 
-Lunches will be self organized by everyone. If you want to go for lunch close to the hackathon location, [-> here]({{% ref lunch_options %}}) are some suggestions for restaurants. Of course, there are many more options. You can also ask your local hackathon colleages for recommendations.
-
-
-
+Lunches will be self organized by everyone. If you want to go for lunch close to the hackathon location, [-> here]({{% ref lunch_options %}}) are some suggestions for restaurants. Of course, there are many more options. You can also ask your local hackathon colleages for recommendations. -->

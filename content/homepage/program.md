@@ -6,7 +6,9 @@ header_menu: true
 ---
 The hackathon will run from Monday afternoon to Friday noon. A detailed schedule will be posted here.
 
-Some recommendations for lunch options can be found [-> here]({{% ref lunch_options %}})
+
+
+<!-- Some recommendations for lunch options can be found [-> here]({{% ref lunch_options %}})
 
 ----
 
@@ -82,4 +84,4 @@ NB: If the location does not include the building, assume Bu53.
 | 10:20am     | Updates from coordination, Heike Konow | 022/023 |
 | 10:30am     | *Coffee break* | Library |
 | 11am     | Closing discussion | 022/023 |
-| 1pm     | End of hackathon |  |
+| 1pm     | End of hackathon |  | -->

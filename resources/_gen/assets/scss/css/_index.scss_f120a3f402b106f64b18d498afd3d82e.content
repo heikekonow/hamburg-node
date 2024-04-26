@@ -16,7 +16,7 @@
   /* Light section - text color */
   --section-light-text-color: #3a4145;
   /* Light section - background color */
-  --section-light-bg-color: #F3F2EF;
+  --section-light-bg-color: #F6F1EC;
   /* Dark section - text color */
   --section-dark-text-color: var(--section-light-bg-color);
   /* Dark section - background color */
