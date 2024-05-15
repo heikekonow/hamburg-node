@@ -14,9 +14,10 @@ Application deadline: 15 June 2024.
 
 nextGEMS is an European project that follows a new approach to climate modelling with global storm-resolving Earth-system Models. The project members meet regularly at hackathons to collaboratively analyse the latest model runs, exchange ideas and develop new ways forward.
 
-We would like to include universities and research groups, especially from regions with less of a tradition in climate science. External participants applying for a stipend will (mostly) be organized in teams to work on an Application Challenge Problem, this time related to fisheries. nextGEMS scientists, as well as experts from the fisheries field, will supervise and support those teams.
+We would like to include universities and research groups, especially from regions with less of a tradition in climate science. External participants applying for a stipend will (mostly) be organized in teams to work on an Application Challenge Problem associated with the main hackathon themes: fire weather, (urban) heat extremes, and precipitation extremes.
+<!-- , this time related to fisheries. nextGEMS scientists, as well as experts from the fisheries field, will supervise and support those teams. -->
 
-If you haven’t been to a hackathon, have a look at our Cycle 1 and Cycle 2 hackathons to get an impression of the atmosphere during our previous meetings.
+If you haven’t been to a hackathon, have a look at our [previous hackathons](https://nextgems-h2020.eu/hackathon/) to get an impression of the atmosphere during our previous meetings.
 
 ## Who can apply?
 
@@ -31,7 +32,7 @@ We welcome young scientists with a strong interest in climate science or Earth s
 
 ## What is included?
 
-The hackathon participation is free and includes coffee breaks and a dinner. Additional travel and accommodation costs (incl. breakfast) up to €1000 are available per person.
+The hackathon participation is free and includes coffee breaks, lunches and a dinner. Additional support for travel and accommodation costs (incl. breakfast) up to €1000 are available per person.
 
 
 ## How to apply?
@@ -48,7 +49,7 @@ Information on the hackathon, as well as registration details, can be found on t
 During the registration, please indicate that you apply for a hackathon stipend. Following the respective check-box, please upload the documents listed above in *one single (concatenated) PDF file*.
 
 Application deadline is 15 June 2024.
-We will let you know as soon as possible whether we can arrange for your hackathon participation in Hamburg.
+We will let you know as soon as possible whether we can arrange for your hackathon participation in Wageningen.
 
 ## Questions?
 
