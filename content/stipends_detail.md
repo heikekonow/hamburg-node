@@ -3,7 +3,7 @@ title: "nextGEMS offers travel support for up to 15 hackathon participants"
 header_menu: false
 ---
 
-*Where and when:* Wageningen University, 14 – 18 March 2024
+*Where and when:* Wageningen University, 14 – 18 October 2024
 
 nextGEMS offers up to 15 stipends for participation in the 4th km-scale hackathon to support young scientists (at Master and PhD student level) from outside the project.
 
