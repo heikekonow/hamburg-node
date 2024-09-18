@@ -4,11 +4,9 @@ weight: 5
 header_menu_title: "Program"
 header_menu: true
 ---
-The hackathon will run from Monday afternoon to Friday noon. A detailed schedule will be posted here.
+The hackathon will run from Monday noon to Friday noon. A detailed schedule will be posted here. 
 
-
-
-<!-- Some recommendations for lunch options can be found [-> here]({{% ref lunch_options %}})
+The below schedule is preliminary and might still be subject to adjustments.
 
 ----
 
@@ -16,72 +14,56 @@ The hackathon will run from Monday afternoon to Friday noon. A detailed schedule
 
 If you arrive early in the morning and would like to have a desk to work at, contact the organizers.
 
-NB: If the location does not include the building, assume Bu53.
-
 | time | event | location |
 | -------- | -------- | -------- |
-| 2pm   | *Registration*     | 002     |
-| 3pm     | **Opening session**  | Hoersaal, Pharm |
-|   |  - Welcome, Bjorn Stevens |   |
-|   |  - Logistics, Elina Plesca |   |
-|   | - Storm & Society, Eulalia Baulenas & Pajam Sobhani |   |
-| 3:40pm     | **Simulation updates**  | Hoersaal, Pharm |
-|   | - ICON, Daniel Klocke  |   |
-|   | - IFS, Thomas Rackow  |   |
-|   | - EERIE models, Dian Putrasahan & Rohit Ghosh   |   |
-| 4:30pm     | *Coffee break* | Library |
-| 5pm     |  **Plans for the breakout groups** | Hoersaal, Pharm |
-|   | - Ocean  |   |
-|   | - Atmosphere  |   |
-|   | - Land  |   |
-| 5:30pm     | **Keynote talk** <br>EVE, Daniela Jacob | Hoersaal, Pharm |
-| 6:30pm     | ***Ice breaker*** | Library |
+| 1pm   | *Registration*     | C0222, Forum building  |
+| 2pm   | *Coffee*     | in front of C0222, Forum building  |
+| 3pm     | **Opening session**  | C0222, Forum building |
+| | - Welcome and logistics | |
+| | - Data and simulation updates | |
+| | - Topics of the hackathon | | 
+| 7pm     | ***Ice breaker*** | Café, Orion building |
 
 ##### Tuesday
 | time | event | location |
 | -------- | -------- | -------- |
-| 9am     | Hacking     |      |
-| 10:30am     | *Coffee break* | Library |
-| 11am     | Hacking |  |
-| 12:30pm     | *Lunch break (individually)* | [lunch options]({{% ref lunch_options %}}) |
-| 2pm     | Hacking  |  |
-| 4pm     | *Coffee break* | Library |
-| 4:30pm     | ***World Café*** | Library |
-| 7pm     | ***Hackathon Dinner***| [Parlament Restaurant](https://maps.app.goo.gl/cv9H9SZrbFFCoBk87) |
-| 8pm     | Day 1 wrap up discussion|      |
+| 9am     | Hacking     | Group rooms |
+| 10am     | *Coffee break* | in front of C0222, Forum building |
+|   | *- Side event: AQUA tool introduction* |  TBC  |
+| 10.30am     | Hacking | Group rooms |
+| 12pm     | *Lunch break* | Forum Restaurant, 1st Floor |
+| 1.30pm     | Hacking  | Group rooms |
+| 4pm     | *Coffee break* |  in front of C0222, Forum building |
+| 7pm     | **Keynote Talk** | 	C0222, Forum building  |
 
 ##### Wednesday
 | time | event | location |
 | -------- | -------- | -------- |
-| 9am    | hacking     |      |
-| 10.30am     | Coffee break | Library |
-| 11am     | hacking |  |
-| 12.30pm     | lunch break (individually) | [lunch options]({{% ref lunch_options %}})  |
-| 2pm     | hacking  |  |
-| 4pm     | Coffee break | Library |
-| 4.30pm     | Keynote* Sarah Kang | Hoersaal, Pharm |
-| 5.30pm     | hacking |      |
-
-\* title: *Possible shift in mechanistic controls of tropical Pacific surface warming pattern*
+| 9am    | Hacking     | Group Rooms |
+| 11am     | *Coffee break* | in front of C0222, Forum building |
+| 11.30am     | Hacking | Group Rooms |
+| 12pm     | *Lunch break* | Forum Restaurant, 1st Floor |
+| 1.30pm     | Hacking  | Group Rooms |
+| 3pm     | *Coffee break* | in front of C0222, Forum building |
+| 4pm     | **Keynote Talk** fire weather, Guido v/d Werf |  	C0222, Forum building |
+| 5pm | Hacking | Group Rooms |
+| 7pm     | *Hackathon Dinner* |  [Restaurant Colours World food](https://www.colorsworldfood.nl/)  |
 
 ##### Thursday
 | time | event | location |
 | -------- | -------- | -------- |
-| 9am     | hacking     |      |
-| 10.30am  | Coffee break | Library |
-| 11.00am  | hacking |  |
-| 12.30pm     | lunch break (individually) | [lunch options]({{% ref lunch_options %}})  |
-| *1.30pm*     | *Side event: Visit of the windtunnel of UHH (up to 90 min)* | |
-| 2pm     | hacking  |  |
-| 4pm     | Coffee break | Library |
-| 4.30pm     | hacking |      |
+| 9am     | Hacking | Group Rooms |
+| 10am  | *Coffee break* | in front of C0222, Forum building |
+| 10.30am  | Hacking | Group Rooms |
+| 12pm     | *Lunch break* | Forum Restaurant, 1st Floor |
+| 1.30pm     | Hacking  | Group Rooms |
+| 3pm     | *Coffee break* | in front of C0222, Forum building |
+| 3.30pm     | Hacking | Group Rooms |
 
 ##### Friday
 | time | event | location |
 | -------- | -------- | -------- |
-| 9am     | Theme teasers    | 022/023 |
-|   | - 20 min per theme  |   |
-| 10:20am     | Updates from coordination, Heike Konow | 022/023 |
-| 10:30am     | *Coffee break* | Library |
-| 11am     | Closing discussion | 022/023 |
-| 1pm     | End of hackathon |  | -->
+| 9am     | Closing Session  | C0222, Forum building |
+| 10am     | *Coffee break* | in front of C0222, Forum building |
+| 10.30am     | Closing Session continues | C0222, Forum building |
+| 12pm     | *Lunch break* | Forum Restaurant, 1st Floor |
