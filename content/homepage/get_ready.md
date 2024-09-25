@@ -6,7 +6,7 @@ header_menu: true
 
 Here are some hints to help you prepare for your hackathon week.
 
-## What to take with you
+### What to take with you
 
 - **Lanyard** -- We would like to reduce unneccessary waste and you probably already have a collection of lanyards lying in your office...
 - **Water bottle** -- To this end, we also ask you to please bring your own reusable water bottle - you can easily refill them with tap water at the venue.
@@ -17,7 +17,7 @@ You will find more information on how to get to here, what will be happening dur
 
 ---
 
-## Hackathon Terms of Reference
+### Hackathon Terms of Reference
 
 The Terms of Reference (ToR) for the hackathon participation can be found under this link: [ToR](https://owncloud.gwdg.de/index.php/s/ALY0LyjcKGKjQmc).
 This document is about the Terms of References  which is  created  for  the  implementation  of  the  project  Hackathons  and  represents  the basis of the activities and obligations for participation.
