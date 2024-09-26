@@ -20,8 +20,9 @@ If you arrive early in the morning and would like to have a desk to work at, con
 | 2 pm   | *Coffee*     | in front of C0222, Forum building  |
 | 3 pm     | **Opening session**  | C0222, Forum building |
 | | - Welcome and logistics | |
-| | - Data and simulation updates | |
-| | - Topics of the hackathon | | 
+| | - Data and simulation updates (ICON, IFS) | |
+| | - ECMWF urban scheme | | 
+| | - Topics of the hackathon | |
 | 6 pm     | ***Ice breaker*** | Café, Orion building |
 
 ##### Tuesday
