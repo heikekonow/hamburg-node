@@ -9,4 +9,7 @@ The Netherlands is renowned for its excellent cycling infrastructure. If you'd l
 
 Alternatively, public transport is also an option. Bus schedules and fare information are available online at [9292.nl](https://www.9292.nl/en), and tickets can be purchased on the bus.
 
+WICC address: Lawickse Allee 9, 6701 AN Wageningen 
+WUR Campus - Forum building: Droevendaalsesteeg 2, 6708 PB Wageningen.
+
 Check out [this map](https://umap.openstreetmap.de/de/map/wageningen-map_69469#17/51.98619/5.66966) for an overview and walking directions.
