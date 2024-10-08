@@ -5,7 +5,7 @@ header_menu_title: "Additional Information"
 header_menu: true
 ---
 
-## During the hackathon
+### During the hackathon
 
 **Data, Computing and Topics**
 - [Hackathon starter pack](https://pad.gwdg.de/tTyMsDXWSTCF7az2N5_1hw?view)
@@ -24,7 +24,7 @@ header_menu: true
 - come and find us in **C0222 in the Forum building** during the hackathon
 
 
-## Getting around
+### Getting around
 
 The Netherlands is renowned for its excellent cycling infrastructure. If you'd like to take advantage of this during the hackathon, bikes are available for rent directly at the [WICC Hotel](https://www.wicc.nl/en/facilities/). 
 
