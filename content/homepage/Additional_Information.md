@@ -21,7 +21,7 @@ header_menu: true
 
 **Contact**
 - [nextgems_office@mpimet.mpg.de](mailto:nextgems_office@mpimet.mpg.de)
-- come and find us in the **library** (ground floor) during the hackathon
+- come and find us in ** C0222 in the Forum building** during the hackathon
 
 
 ## Getting around
