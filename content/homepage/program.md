@@ -36,6 +36,7 @@ If you arrive early in the morning and would like to have a desk to work at, con
 | 1.30 pm     | Hacking  | Group rooms |
 | 3.30 pm     | *Coffee break* |  in front of C0222, Forum building |
 | 4 pm     | Hacking  | Group rooms |
+| 4.30 pm | Group photo | TBC |
 | 5 pm     | **Keynote Talk** | 	C0222, Forum building  |
 
 ##### Wednesday
