@@ -44,7 +44,7 @@ If you arrive early in the morning and would like to have a desk to work at, con
 | -------- | -------- | -------- |
 | 9 am    | Hacking     | Group Rooms |
 | 10.30 am     | *Coffee break* | in front of C0222, Forum building |
-|11 am |*Side event: Energy industry talk, Nuria Sanchez (Iberdrola)* |online, room for streaming tbc|
+|11 am |*Side event: Energy industry talk, Nuria Sanchez (Iberdrola)* |online, room for streaming B0616|
 | 11 am     | Hacking | Group Rooms |
 | 12.30 pm     | *Lunch break* | Forum Restaurant, 1st Floor |
 | 2 pm     | Hacking  | Group Rooms |
