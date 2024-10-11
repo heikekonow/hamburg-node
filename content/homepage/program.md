@@ -29,7 +29,7 @@ If you arrive early in the morning and would like to have a desk to work at, con
 | time | event | location |
 | -------- | -------- | -------- |
 | 9 am     | Hacking     | Group rooms |
-| 9.30 am  | *Side event: AQUA tool introduction* |  TBC  
+| 9.30 am  | *Side event: AQUA tool introduction* |  B0616 - 6th floor Forum building |  
 | 10.30 am     | *Coffee break* | in front of C0222, Forum building |
 | 11 am     | Hacking | Group rooms |
 | 12.30 pm     | *Lunch break* | Forum Restaurant, 1st Floor |
@@ -37,18 +37,19 @@ If you arrive early in the morning and would like to have a desk to work at, con
 | 3.30 pm     | *Coffee break* |  in front of C0222, Forum building |
 | 4 pm     | Hacking  | Group rooms |
 | 4.30 pm | Group photo | TBC |
-| 5 pm     | **Keynote Talk** | 	C0222, Forum building  |
+| 5 pm     | **Keynote Talk** The Third Pole’s value for food, Hester Biemans (WUR)| 	C0222, Forum building  |
 
 ##### Wednesday
 | time | event | location |
 | -------- | -------- | -------- |
 | 9 am    | Hacking     | Group Rooms |
 | 10.30 am     | *Coffee break* | in front of C0222, Forum building |
+|11 am |*Side event: Energy industry talk, Nuria Sanchez (Iberdrola)* |online, room for streaming tbc|
 | 11 am     | Hacking | Group Rooms |
 | 12.30 pm     | *Lunch break* | Forum Restaurant, 1st Floor |
 | 2 pm     | Hacking  | Group Rooms |
 | 3.30 pm     | *Coffee break* | in front of C0222, Forum building |
-| 4 pm     | **Keynote Talk** fire weather, Guido v/d Werf |  	C0222, Forum building |
+| 4 pm     | **Keynote Talk** Fire in the Earth System, Guido v/d Werf (WUR)|  	C0222, Forum building |
 | 5 pm | Hacking | Group Rooms |
 | 7 pm     | *Hackathon Dinner* |  [Restaurant Colours World food](https://www.colorsworldfood.nl/)  |
 | 8 pm  | Hackathon midweek discussion | [Restaurant Colours World food](https://www.colorsworldfood.nl/)  |
@@ -58,7 +59,7 @@ If you arrive early in the morning and would like to have a desk to work at, con
 | -------- | -------- | -------- |
 | 9 am     | Hacking | Group Rooms |
 | 10.30 am  | *Coffee break* | in front of C0222, Forum building |
-| 11 am  | Workshop: Energy story lines  | TBC |
+| 11 am  | Workshop: Energy story lines  | B0616 - 6th floor Forum building |
 | 12.30 pm     | *Lunch break* | Forum Restaurant, 1st Floor |
 | 2 pm     | Hacking  | Group Rooms |
 | 3.30 pm     | *Coffee break* | in front of C0222, Forum building |
