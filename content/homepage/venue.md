@@ -1,5 +1,6 @@
 ---
 title: "Venue - WUR campus"
+header_title: "Venue"
 weight: 3
 header_menu: true
 ---
