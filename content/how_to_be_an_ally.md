@@ -9,5 +9,5 @@ Below you will find a quick guide on how to become a better Ally for the queer c
 
 
 ![How to be an Ally - Part 1](https://nextgems.pages.gwdg.de/hazard-hackathon/images/How_to_be_an_ally_1.jpg)
-**check out the HRC Foundation's Report on [Being an LGBTQ+ Ally](https://reports.hrc.org/being-an-lgbtq-ally)*
+**HRC Foundation - Report on [Being an LGBTQ+ Ally](https://reports.hrc.org/being-an-lgbtq-ally)*
 ![How to be an Ally - Part 2](https://nextgems.pages.gwdg.de/hazard-hackathon/images/How_to_be_an_ally_2.jpg)
