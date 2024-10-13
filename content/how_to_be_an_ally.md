@@ -8,5 +8,5 @@ In both professional and social environments, it’s essential to actively suppo
 Below you will find a quick guide on how to become a better Ally for the queer community:
 
 
-![How to be an Ally - Part 1](https://nextgems.pages.gwdg.de/hazard-hackathon/images/how_to_be_an_ally_1.jpg)
-![How to be an Ally - Part 2](https://nextgems.pages.gwdg.de/hazard-hackathon/images/how_to_be_an_ally_2.jpg)
+![How to be an Ally - Part 1](https://nextgems.pages.gwdg.de/hazard-hackathon/images/How_to_be_an_ally_1.jpg)
+![How to be an Ally - Part 2](https://nextgems.pages.gwdg.de/hazard-hackathon/images/How_to_be_an_ally_2.jpg)
