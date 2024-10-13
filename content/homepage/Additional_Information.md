@@ -8,7 +8,7 @@ header_menu: true
 
 ### During the hackathon
 
-As part of our commitment to creating an inclusive and welcoming atmosphere, we have created a little guide on how to be an Ally for the Queer community. Please take some time to read through it [here](https://nextgems.pages.gwdg.de/hazard-hackathon//how_to_be_an_ally/).
+As part of our commitment to creating an inclusive and welcoming atmosphere, we have created a little guide on how to be an Ally for the Queer community. Please take some time to read it [here](https://nextgems.pages.gwdg.de/hazard-hackathon//how_to_be_an_ally/).
 
 **Data, Computing and Topics**
 - [Hackathon starter pack](https://pad.gwdg.de/tTyMsDXWSTCF7az2N5_1hw?view)
