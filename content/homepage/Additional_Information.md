@@ -4,7 +4,7 @@ weight: 7
 header_menu_title: "Additional Information"
 header_menu: true
 ---
-
+<br>
 ### During the hackathon
 
 **Data, Computing and Topics**
