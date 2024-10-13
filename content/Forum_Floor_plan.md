@@ -1,5 +1,5 @@
 ---
-title: "Forum Building 102 - Floor Plan"
+title: "Forum Building - Floor Plan"
 header_menu_title: "Floor Plan"
 header_menu: true
 detailed_page_path: Forum_Floor_Plan/
