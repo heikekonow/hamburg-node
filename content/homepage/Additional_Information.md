@@ -19,7 +19,8 @@ As part of our commitment to creating an inclusive and welcoming atmosphere, we 
 - [Room overview](https://nextgems.pages.gwdg.de/hazard-hackathon/#room-plan)
 - [Dinner suggestions](https://umap.openstreetmap.de/de/map/dinner-suggestions-wageningen_69926)
 - [Hackathon website](https://nextgems.pages.gwdg.de/hazard-hackathon/)
-- [Mattermost channel](https://mattermost.mpimet.mpg.de/nextgems/channels/nextgems-hazard-hackathon-wageningen---october-2024)
+- [General Hackathon Mattermost Channel](https://mattermost.mpimet.mpg.de/nextgems/channels/nextgems-hazard-hackathon-wageningen---october-2024)
+- [Simulation Support Mattermost Channel](https://mattermost.mpimet.mpg.de/nextgems/channels/dyamond-winter-tutorial) 
 
 
 **Contact**
