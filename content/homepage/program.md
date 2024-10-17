@@ -68,7 +68,10 @@ If you arrive early in the morning and would like to have a desk to work at, con
 ##### Friday
 | time | event | location |
 | -------- | -------- | -------- |
-| 9 am     | Closing Session  | C0222, Forum building |
+| 9 am     | Closing Session - Part I | C0222, Forum building |
+| |- Group Presentations| | 
 | 10.30 am     | *Coffee break* | in front of C0222, Forum building |
-| 11 am     | Closing Session continues | C0222, Forum building |
+| 11 am     | Closing Session - Part II | C0222, Forum building |
+||- Update on the paper *"NextGEMS: entering the era of kilometre-scale Earth System modelling"* (Hans Segura)||
+||- Discussion about the final stage of the nextGEMS project and the continuation of the nextGEMS community beyond (Bjorn Stevens) ||
 | 12.30 pm     | *Lunch break* | Forum Restaurant, 1st Floor |
