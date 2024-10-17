@@ -68,13 +68,13 @@ If you arrive early in the morning and would like to have a desk to work at, con
 ##### Friday
 | time | event | location |
 | -------- | -------- | -------- |
-|  | **Closing Session - Part I** | C0222, Forum building |
+|  | *Closing Session - Part I* | C0222, Forum building |
 |9.00 am |Efficient data handling| |
 |9.20 am |Energy challenge| |
 |9.40 am |Fire weather challenge||
 |10.00 am|Extremes challenge - Part I|| 
 |10.30 am| *Coffee break* | in front of C0222, Forum building |
-| | **Closing Session - Part II** | C0222, Forum building |
+| | *Closing Session - Part II* | C0222, Forum building |
 |11.00 am|Extremes challenge - Part II| |
 |11.30 am|short input by the S&O, S&L, S&A groups| |
 ||+ Update on nextGEMS paper (Hans Segura)||
