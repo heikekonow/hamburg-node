@@ -69,14 +69,14 @@ If you arrive early in the morning and would like to have a desk to work at, con
 | time | event | location |
 | -------- | -------- | -------- |
 |  | **Closing Session - Part I**: Group Presentations | C0222, Forum building |
-|9.00- 9.20 am |Efficient data handling| |
-|9.20- 9.40 am |Energy challenge| |
-| 9.40-10.00 am |Fire weather challenge||
-| 10.00-10.30 am|Extremes challenge - Part I|| 
-| 10.30 am     | *Coffee break* | in front of C0222, Forum building |
+|9.00 am |Efficient data handling| |
+|9.20 am |Energy challenge| |
+|9.40 am |Fire weather challenge||
+|10.00 am|Extremes challenge - Part I|| 
+|10.30 am| *Coffee break* | in front of C0222, Forum building |
 | | **Closing Session - Part II** | C0222, Forum building |
-| 11.00-11.30 am|Extremes challenge - Part II| |
-| 11.30-11.50 am|short input by the S&O, S&L, S&A groups on plans until next summer | |
+|11.00 am|Extremes challenge - Part II| |
+|11.30 am|short input by the S&O, S&L, S&A groups on plans until next summer | |
 ||+ Update on the paper *"NextGEMS: entering the era of kilometre-scale Earth System modelling"* (Hans Segura)||
-|11.50-12.15pm|Final discussion discussion about the future of the nextGEMS project (Bjorn Stevens) ||
+|11.50 pm|Final discussion discussion about the future of the nextGEMS project (Bjorn Stevens) ||
 | 12.30 pm     | *Lunch break* | Forum Restaurant, 1st Floor |
