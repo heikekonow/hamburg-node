@@ -78,6 +78,6 @@ If you arrive early in the morning and would like to have a desk to work at, con
 | | **Closing Session - Part II** | C0222, Forum building |
 |11.00 am|Extremes challenge - Part II| |
 |11.30 am|short input by the S&O, S&L, S&A groups| |
-||+ Update on the paper *"NextGEMS: entering the era of kilometre-scale Earth System modelling"* (Hans Segura)||
+||+ Update on nextGEMS paper (Hans Segura)||
 |11.50 pm|Final discussion discussion (Bjorn Stevens) ||
 | 12.30 pm     | *Lunch break* | Forum Restaurant, 1st Floor |
