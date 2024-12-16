@@ -9,7 +9,6 @@ Here are some hints on how to set up the website for your hackathon location ([C
 
 ### Copy
 Create your own copy of the repository.  We recommend **to fork** the branch before editing.
-?? forking or cloning? 
 
 ### Edit
 
