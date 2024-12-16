@@ -8,7 +8,7 @@ This website is rendered using [Hugo](https://gohugo.io), the theme usded is cal
 Here are some hints on how to set up the website for your hackathon location ([Copy](#copy), [Edit](#edit)) and how to add content to the website ([Add content](#add-content)).
 
 ### Copy
-Create your own copy of the repository.
+Create your own copy of the repository.  We recommend **to fork** the branch before editing.
 ?? forking or cloning? 
 
 ### Edit
